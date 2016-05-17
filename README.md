@@ -1,2 +1,2 @@
-# CalculateMutualFundReturns
-Use R to calculate returns for Mutual Funds and other securities
+# CalculateStockReturns
+Use R to calculate returns for stocks and other securities
